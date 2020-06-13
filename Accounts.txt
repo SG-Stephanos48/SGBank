@@ -1,0 +1,6 @@
+Name,Balance,AccountNumber,Type
+Free Customer,100,11111,Free
+Basic Customer,500,22222,Basic
+Premium Customer,1000,33333,Premium
+Free Customer,200,11111,Free
+Free Customer,80,11111,Free

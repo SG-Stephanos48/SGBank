@@ -1,0 +1,17 @@
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Users\steph\source\repos\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csproj.CopyComplete
+C:\Users\steph\source\repos\SGBank\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Users\steph\source\repos\SGBank\SGBank.UI\obj\Debug\SGBank.UI.pdb
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\SGBank.Data.pdb
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\nunit.engine.dll
+C:\Users\steph\source\repos\SGBank\SGBank.UI\bin\Debug\nunit.engine.api.dll
